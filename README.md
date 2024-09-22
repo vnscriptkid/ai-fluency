@@ -5,6 +5,8 @@
 - https://v0.dev/
 - https://claude.ai/new
 - https://www.perplexity.ai/
+  - Factual accuracy
+  - Realtime information  
 
 ## Sources
 - https://www.youtube.com/watch?v=grc0YSEdUQY
